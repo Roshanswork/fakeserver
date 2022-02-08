@@ -1,0 +1,35 @@
+{
+  "games": [
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": true,
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 1
+    },
+    {
+      "gamename": "Thor",
+      "gameauthor": "RoshanRJ",
+      "gametags": "board,fight",
+      "gameprice": "47567",
+      "forkids": true,
+      "gamedsc": "Fighting mode",
+      "gamerating": "5",
+      "id": 2
+    },
+    {
+      "gamename": "Avanger",
+      "gameauthor": "Unknown",
+      "gametags": "Acrade, Fight, Adventure",
+      "gameprice": "599",
+      "forkids": true,
+      "gamedsc": "Lots of fun",
+      "gamerating": "3",
+      "id": 5
+    }
+  ]
+ 
+}
